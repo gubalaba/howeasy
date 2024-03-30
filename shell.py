@@ -1,6 +1,6 @@
 import socket
 import subprocess
-
+# fuck
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
